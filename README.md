@@ -1,5 +1,5 @@
 # mbti-link-sharing
-Course project analyzing Myers Briggs Personality Types' tendency to post URLs on a public forum
+Analyzing Myers Briggs Personality Types' tendency to post URLs on a public forum
 
 Data: https://www.kaggle.com/datasnaek/mbti-type
 
